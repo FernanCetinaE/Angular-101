@@ -56,6 +56,6 @@ https://www.youtube.com/watch?v=42uxw1Hjo2s&ab_channel=PragmaticReviews
 # 🖥️ Commit future changes 🖥️
 <p> 
   <code>git add .</code>
-  <code>git commit -m "your comment"</code>
-  <code>git push -u origin main</code>
+  <br><code>git commit -m "your comment"</code>
+  <br><code>git push -u origin main</code>
 </p>
