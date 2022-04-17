@@ -10,6 +10,6 @@ Simple guide to create and publish a Site using Angular
 ### You can delete the content of .html and .css inside "app"
 
 ## Deveolment process
-<code> cd angular-tour-of-heroes
+<code> cd angular-tour-of-heroes </code>
 <br>
-ng serve --open </code>
+<code> ng serve --open </code>
