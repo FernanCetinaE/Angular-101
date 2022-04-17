@@ -1,4 +1,4 @@
-# Angular-101 📝
+# 📝 Angular-101 📝 
 Simple guide to create and publish a Site using Angular
 
 ## Step 1: Install Angular!
@@ -10,13 +10,13 @@ Simple guide to create and publish a Site using Angular
 ### You can delete the content of .html and .css inside "app"
 
 ## Step 3:
-## Development process 1.1
+### Development process 1.1
 <br> Making sure you are in the folder of the project...
 <code> cd {name of project} </code>
 <br> Openning a constantly updated version of production
 <code> ng serve --open </code>
 
-## Development process 1.2
+### Development process 1.2
 Use "Nx Console" for Vs Code
 
 ## Step 4: Deploying static version in a separated folder
@@ -40,11 +40,11 @@ to "maximumError"
 ## Step 3: Setup Github Pages
 Go to "Settings" and click in the "Pages" option, the enable the option and select 'main' as the root to look after and 'docs' for the location of the Index.html
 
-<br>
-# Useful resources
+
+# 🚨 Useful resources 🚨
 ## In case the app is working fine but leaves a blank page once hosted
 https://stackoverflow.com/questions/51718020/when-running-ng-build-the-index-html-does-nothing
-Simple trick is just Remove / from the <base href="/"> line from the index.html Change line <base href="/"> to <base href="">
+Simple trick is just Remove / from the href="/" line from the index.html Change line base href="/" to base href=""
 <br>
 ## In case you want a visual guide
 https://www.youtube.com/watch?v=42uxw1Hjo2s&ab_channel=PragmaticReviews 
