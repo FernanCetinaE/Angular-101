@@ -52,3 +52,10 @@ Simple trick is just Remove / from the href="/" line from the index.html Change 
 <br>
 ## In case you want a visual guide
 https://www.youtube.com/watch?v=42uxw1Hjo2s&ab_channel=PragmaticReviews 
+
+# 🖥️ Commit future changes 🖥️
+<p> 
+  <code>git add .</code>
+  <code>git commit -m "your comment"</code>
+  <code>git push -u origin main</code>
+</p>
