@@ -31,11 +31,12 @@ to "maximumError"
 ## Step 2: Sync our current project
 <p>
   <code> git init </code>
-  <code> <br>git add . </code>
-  <code> <br>git commit -m 'comment up to you' </code>
-  <code> <br>git remote add origin {link available at your repo in "Code" button as HTTPS, or initial page of empty Repo} </code>
-  <code>  <br>git push -u origin main </code>
+  <br><code> git add . </code>
+  <br><code> git commit -m 'comment up to you' </code>
+  <br><code> git remote add origin {link available at your repo in "Code" button as HTTPS, or initial page of empty Repo} </code>
+  <br><code> git push -u origin main </code>
 </p>
+
 ## Step 3: Setup Github Pages
 Go to "Settings" and click in the "Pages" option, the enable the option and select 'main' as the root to look after and 'docs' for the location of the Index.html
 
