@@ -26,6 +26,9 @@ Go to angular.json within the main folder of the project and change the attribut
 Go to angular.json within the main folder of the project and change the value of "budgets" attributes, specifically
 to "maximumError"
 
+# Step 6: Last stage
+Run <code>ng build</code> to export a static folder with our App
+
 # Creating a Github repository and updating it
 ## Step 1: Create a new Repository
 ## Step 2: Sync our current project
@@ -34,6 +37,7 @@ to "maximumError"
   <br><code> git add . </code>
   <br><code> git commit -m 'comment up to you' </code>
   <br><code> git remote add origin {link available at your repo in "Code" button as HTTPS, or initial page of empty Repo} </code>
+  <br><code> git branch -M main </code>
   <br><code> git push -u origin main </code>
 </p>
 
